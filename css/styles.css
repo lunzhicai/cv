@@ -193,7 +193,7 @@ a:hover{
 }
 
 .Lego_display{
-    max-width: 800px;
+    width: 600px;
 
     display: block;
     margin-left: auto;
