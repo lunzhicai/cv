@@ -192,6 +192,17 @@ a:hover{
     margin-right: 30px;
 }
 
+.Lego_display{
+    /* max-width: 200px; */
+    /* max-width: 30%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+    /* margin-right: 30px; */
+}
+
 .Satorini{
   max-width: 40%;
   height: auto;
